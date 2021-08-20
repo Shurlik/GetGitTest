@@ -107,6 +107,7 @@ const styles = ScaledSheet.create({
         backgroundColor: "#3a4047",
         color: "#fff",
         paddingHorizontal: "20@s",
+        paddingTop: '20@vs'
     },
     inputContainer: {
         marginTop: "30@vs",
